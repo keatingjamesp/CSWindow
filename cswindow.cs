@@ -19,7 +19,7 @@ using System.Windows.Forms;
 			lblTitle.Text = "Hello Windows";
 			this.statusStripMain = new System.Windows.Forms.StatusStrip();
 			this.ClientSize = new System.Drawing.Size(400, 300);
-			this.Text = "C# Windows Pgm";
+			this.Text = "C# Windows Program";
 			this.Name = "MainForm";
 			this.Controls.Add(this.lblTitle);
 			this.Controls.Add(this.statusStripMain);
